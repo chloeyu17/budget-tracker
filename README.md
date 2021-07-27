@@ -26,7 +26,7 @@ Built in collaboration with:
 
 ![Screen Shot2](./images/FullScreenShot.png?raw=true "Screen Shot1")
 
-![Demo](./images/FullDemo.gif "Demo")
+![Demo](./images/Demo.gif "Demo")
 
 
 ## Table of Contents
